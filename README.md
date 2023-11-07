@@ -1,15 +1,13 @@
-## :information_source: Information
-
-- Name: Yuki Uehara
-- Nicname: Uetyo
-- Location: japan
-- Language: Japanese(Native), English(Conversational)
-- Job: iOS Engineer
-- Interest: Web3.0
-- Blog: [blog.ue-y.me](https://blog.ue-y.me)
-- Twitter: [@psnzbss](https://twitter.com/psnzbss)
-
-## :clipboard: Status
+## 📝: About me
+  - Name: Daisuke Kikukawa
+  - Nicname: Kiku
+  - Location: japan
+  - Language: Japanese(Native), English(Conversational)
+  - Job: web Engineer
+  - Interest: Web3.0
+  - Blog: [blog](https://)
+  - Twitter: [@daisuke](https://)
+## ⚡: Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaisukeKikukawa&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
