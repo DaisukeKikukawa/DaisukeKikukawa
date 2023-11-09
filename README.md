@@ -1,9 +1,9 @@
 ## 📝: About me
   - Name: Daisuke Kikukawa
   - Nicname: Kiku
-  - Location: japan
+  - Location: Japan
   - Language: Japanese(Native), English(Conversational)
-  - Job: web Engineer
+  - Job: Web Engineer
   - Interest: Web3.0
   - Blog: [blog](https://)
   - Twitter: [@daisuke](https://)
