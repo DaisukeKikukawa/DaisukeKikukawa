@@ -3,10 +3,13 @@
   - Nicname: Kiku
   - Location: Japan
   - Language: Japanese(Native), English(Conversational)
+
+  <!--
   - Job: Web Engineer
   - Interest: Web3.0
   - Blog: [blog](https://)
   - Twitter: [@daisuke](https://)
+  -->
 ## ⚡: Status
 
 <p align="left"> 
