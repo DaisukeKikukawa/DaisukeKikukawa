@@ -4,6 +4,7 @@
   - Location: Japan
   - Language: Japanese(Native), English(Conversational)
 
+
   <!--
   - Job: Web Engineer
   - Interest: Web3.0
