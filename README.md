@@ -58,12 +58,6 @@ _〜高き志で道を切り拓く〜_
 
 <details>
 
----
-
-</details>
-
-<details>
-
 <summary>Language & tool　〜使用言語とツール〜</summary>　　
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,mysql,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
