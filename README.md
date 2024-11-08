@@ -1,4 +1,4 @@
-## ✨✨✨About me✨✨✨
+## 📝: About me
   - Name: Daisuke Kikukawa
   - Nicname: Kiku
   - Location: Japan
