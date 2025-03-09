@@ -19,9 +19,6 @@
 Railsを中心に、技術力の向上に励んでいます。  
 ぜひ最後までご覧いただき、より知っていただけたら嬉しいです。
 
-※採用に関するご提案やご質問は daisuke.kikukawa.16@gmail.com までお願いします ✨  
-※[Qiita](https://qiita.com/Daisuke_Kikukawa) や [GitHub](https://github.com/DaisukeKikukawa) のフォローも大歓迎です ✨
-
 ---
 
 ✨ 以下よりアコーディオンを展開してご覧ください ✨
