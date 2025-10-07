@@ -30,7 +30,6 @@ Railsを中心に、技術力の向上に励んでいます。
 - 名前：　菊川大介 (Daisuke Kikukawa)
 - 年齢：　 28歳
 - 居住地：　東京
-- スキル：　 Ruby on Rails
 - 連絡先：　daisuke.kikukawa.16@gmail.com
   
 ---
